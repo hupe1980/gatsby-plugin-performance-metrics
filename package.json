@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-performance-metrics",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Gatsby plugin to measure First (Contentful) Paint (FP/FCP) and First Input Delay (FID)",
   "license": "MIT",
   "author": "hello@webappsolutions.de",
@@ -16,7 +16,8 @@
     "first-contentful-paint",
     "first-paint",
     "first-input-delay",
-    "google-analytics"
+    "google-analytics",
+    "rum"
   ],
   "main": "index.js",
   "scripts": {
